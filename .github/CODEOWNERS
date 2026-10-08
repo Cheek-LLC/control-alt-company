@@ -1,0 +1,16 @@
+# CODEOWNERS
+#
+# GitHub automatically requests a review from these owners on every pull
+# request. The PR author is never requested, even if they are an owner.
+#
+# Format: <file pattern> <owner> [<owner> ...]
+#   - Patterns follow .gitignore rules. A leading / anchors to the repo root.
+#   - Owners need write access to the repo, or they are silently ignored.
+#   - When several lines match a file, the LAST match wins. Keep the
+#     catch-all at the top and add specific paths below it.
+#
+# Review policy: the org ruleset "baseline-default-branch" requires one
+# approval from someone other than the author before merging to main.
+
+# Default owners for everything in the repo
+*       @schun8 @pcheek
